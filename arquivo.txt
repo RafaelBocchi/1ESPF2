@@ -1,2 +1,3 @@
 arrow_drop_down_circle
 ahmatTooltipHideDelay=""
+phone_paused
